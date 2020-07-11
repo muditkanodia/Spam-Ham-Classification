@@ -5,7 +5,9 @@ The project includes SVC, Logistic Regression, Decision Tree, Naive Bayes and Ra
 
 Spamming is the use of messaging systems to send an unsolicited message (spam), especially advertising, as well as sending messages repeatedly on the same website. Email Spam, Instant Messaging Spam, Usenet Newsgroup Spam, Web Search Engine Spam, Spam in Blogs, Online Classified ads spam etc. are common type of spams. 
 
-DATA ENGINEERING AND PROCESS EDA 
+DATA ENGINEERING AND PROCESS 
+
+EDA 
 (i)	The Dataset contains two variables category and message. 
 (ii)	Removed Null values, Calculated message length for each message. 
 (iii)	Plotted chart to see frequency of each category and to depict relationship between message and its length. 
